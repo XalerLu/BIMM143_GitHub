@@ -1,3 +1,3 @@
 # BIMM143_GitHub
-My classwork for BIMM 143 in Winter 2026 at UCSD
+My classwork for BIMM 143 in Winter 2026 at UC San Diego.
 
