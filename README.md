@@ -4,7 +4,7 @@ My classwork for [BIMM143](https://github.com/XalerLu/BIMM143_GitHub.git) in Win
 ## Index of Material
 
 *Introductory Material*
-- Class 04 [Intro to R](BIMM143Class04.R)
+- Class 04 [Intro to R](https://github.com/XalerLu/BIMM143_GitHub/blob/main/BIMM143Class04/BIMM143Class04.R)
 - Class 05 [Data Visualization with ggplot](https://github.com/XalerLu/BIMM143_GitHub/blob/main/BIMM143Class05/BIMM%20143%20Lab%205%20Quarto.qmd)
 - Class 06
 - Class 07
